@@ -1,0 +1,53 @@
+body{
+    background-color: #C7F8FF;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title{
+    border: 2px solid #0C7489;
+    top:5px;
+    left:5px;
+    right:323px;
+    padding:10px;
+    color:#0C7489;
+    font-style: italic;
+}
+.sidetitle{
+    color:#0C7489;
+}
+.happylittle{
+    position: absolute;
+}
+.rightside{
+    border: 2px solid #0C7489;
+    top: 155px;
+    right: 5px;
+    padding: 5px;
+    width:fit-content
+}
+
+.mainbody{
+    border: 2px solid #0C7489;
+    top: 155px;
+    left: 5px;
+    right: 323px;
+}
+
+.subheading{
+    color:#0C7489;
+    font-style: italic;
+}
+
+.directory{
+    border: 2px solid #0C7489;
+    top: 5px;
+    right: 5px;
+    width: 300px;
+    padding: 5px;
+}
+
+.pleasebenice{
+    border: 2px solid #0C7489;
+    left: 5px;
+    right: 323px;
+    bottom: 5px;
+}
